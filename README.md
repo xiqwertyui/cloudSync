@@ -1,7 +1,7 @@
 ## one step push
 - Once finished github repo initilisazion
 - You can simply use:
-  `./cloudSync \<Your commit message\>`
+  `./cloudSync <Your commit message>`
 To sync the code between cloud and local.
 
 ## background
